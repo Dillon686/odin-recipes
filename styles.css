@@ -15,6 +15,8 @@ a {
   text-decoration: none;
   font-weight: bolder;
   font-size: 30px;
+  padding-bottom: 10px;
+  display: block;
 }
 
 section {
@@ -27,4 +29,9 @@ section {
 
 .back {
   font-size: 22px;
+}
+
+.main-content {
+  width: 900px;
+  height: auto;
 }
