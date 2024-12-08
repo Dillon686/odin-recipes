@@ -1,2 +1,2 @@
-# odin-recipes-2024
-2024 Redo of Odin Recipes project
+# odin-recipes
+Odin Project recipe assignment, part of the Foundations course
